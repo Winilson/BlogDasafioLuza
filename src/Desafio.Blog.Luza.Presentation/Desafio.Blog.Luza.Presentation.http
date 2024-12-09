@@ -1,0 +1,6 @@
+@Desafio.Blog.Luza.Presentation_HostAddress = http://localhost:5030
+
+GET {{Desafio.Blog.Luza.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
